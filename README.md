@@ -3,7 +3,7 @@
 Portafolio profesional de proyectos de Data Science.
 
 ## 👨‍💻 Sobre mí
-[Tu nombre] — Data Scientist en formación | Python · SQL · Machine Learning
+Harold German — Data Scientist en formación | Python · SQL · Machine Learning
 
 ## 📁 Proyectos
 *(Se irán agregando conforme avance el programa)*
@@ -12,5 +12,5 @@ Portafolio profesional de proyectos de Data Science.
 Python · NumPy · Pandas · Scikit-learn · TensorFlow · PyTorch · SQL · Git
 
 ## 📫 Contacto
-- LinkedIn: [tu-linkedin]
-- Email: [tu-email]
+- LinkedIn: [aun no tengo]
+- Email: germanchaguar@gmail.com
